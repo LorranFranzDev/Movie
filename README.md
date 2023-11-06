@@ -12,7 +12,7 @@
 <p align="center">  
 
 <p float="left" align="center">
-<img alt="screenshot" width="100%"  src="screenshot/video.gif"/>
+<img src="screenshots/video.gif" width="100%"/>
 <img alt="screenshot" width="30%" src="screenshots/Screenshot-1.png"/>
 <img alt="screenshot" width="30%" src="screenshots/Screenshot-2.png"/>
 <img alt="screenshot" width="30%" src="screenshots/Screenshot-3.png"/>
