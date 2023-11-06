@@ -11,30 +11,25 @@
 
 <p align="center">  
 
-⭐ Esse é um projeto para demonstrar meu conhecimento técnico no desenvolvimento Android nativo com Kotlin. Mais informações técnicas abaixo.
+<p float="left" align="center">
+<img alt="screenshot" width="100%"  src="screenshot/video.gif"/>
+<img alt="screenshot" width="30%" src="screenshots/Screenshot-1.png"/>
+<img alt="screenshot" width="30%" src="screenshots/Screenshot-2.png"/>
+<img alt="screenshot" width="30%" src="screenshots/Screenshot-3.png"/>
+</p>
 
-📐 Aplicativo que faz a criação de tarefas, salvando em uma outra Activity com a funcionalidade de concluir e excluir tarefa!
+
+⭐ Esse é um projeto de estudo onde trabalho com Recyclerview Horizontal e Vertical, Intents, Click do item para navegar para pagina de descrição do filme. Inicialmente criei o projeto com activity, mas irei passar para fragment e também trabalhar a parte dos filmes com requisições em uma API com Retrofit.
+
+📐 Aplicativo de listagem de filmes com base no Netflix a parte de scroll horizontal e vertical!
 
 </p>
 
 </br>
 
-<p float="left" align="center">
-<img alt="screenshot" width="30%" src="screenshots/Screenshot-1.png"/>
-<img alt="screenshot" width="30%" src="screenshots/Screenshot-2.png"/>
-<img alt="screenshot" width="30%" src="screenshots/Screenshot-3.png"/>
-<img alt="screenshot" width="30%" src="screenshots/Screenshot-4.png"/>
-<img alt="screenshot" width="30%" src="screenshots/Screenshot-5.png"/>
-<img alt="screenshot" width="30%" src="screenshots/Screenshot-6.png"/>
-<img alt="screenshot" width="30%" src="screenshots/Screenshot-7.png"/>
-</p>
-
-## Download
-Faça o download da <a href="apk/app-debug.apk?raw=true">APK diretamente</a>. Você pode ver <a href="https://www.google.com/search?q=como+instalar+um+apk+no+android">aqui</a> como instalar uma APK no seu aparelho android.
-
 ## Tecnologias usadas e bibliotecas de código aberto
 
-- Minimum SDK level: 23.
+- Minimum SDK level: 26.
 - [Linguagem Kotlin](https://kotlinlang.org/) 
 
   - Jetpack 
@@ -44,19 +39,11 @@ Faça o download da <a href="apk/app-debug.apk?raw=true">APK diretamente</a>. Vo
   - [...]
 
 - Features e melhorias a serem implementadas:
-  - Persistência de Dados;
-  - Nível de prioridade das tarefas;
-  - Histórico de tarefas;
+  - Passar de Activity para Fragment;
+  - Consumir API com Retrofit;
   - SplashScreen;
   - [...]
 
-## Features
-
-### Criando Tarefas
-<img src="screenshots/TestandoSalvarTarefas1.gif" width="25%"/>
-
-### Concluindo e Excluindo Tarefas
-<img src="screenshots/ConcluindoEExcluindoTarefas2.gif" width="25%"/>
 
 
 # Licença
