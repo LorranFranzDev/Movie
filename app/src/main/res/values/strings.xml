@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">BrunoFlix</string>
+    <string name="txt_series">Séries</string>
+    <string name="txt_movies">Filmes</string>
+    <string name="txt_my_list">Minha Lista</string>
+    <string name="txt_title_movie">Título do Filme</string>
+    <string name="txt_category_movie">Categoria do Filme</string>
+    <string name="txt_description_movie">Descrição do Filme</string>
+    <string name="txt_author_movie">Autor do Filme</string>
+    <string name="btn_play_trailler">Assitir trailler</string>
+    <string name="txt_sugestions_movies">Títulos semelhantes</string>
+</resources>

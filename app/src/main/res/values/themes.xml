@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.BrunoFlix" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/netflix_red</item> <!-- Cor primária semelhante ao vermelho do Netflix -->
+        <item name="colorPrimaryVariant">@color/netflix_black</item> <!-- Cor de variante da cor primária -->
+        <item name="colorOnPrimary">@color/netflix_white</item> <!-- Cor do texto sobre a cor primária -->
+
+        <item name="android:statusBarColor">@color/netflix_black</item>
+    </style>
+    <style name="Theme.BrunoFlix" parent="Base.Theme.BrunoFlix" />
+</resources>
