@@ -9,10 +9,12 @@
   <a href="mailto:lorranfranzbastos1@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
-<p align="center">  
+<p float="left" align="center">
+<img src="screenshots/video.gif" width="25%"/>
+</p>
+
 
 <p float="left" align="center">
-<img src="screenshots/video.gif" width="100%"/>
 <img alt="screenshot" width="30%" src="screenshots/Screenshot-1.png"/>
 <img alt="screenshot" width="30%" src="screenshots/Screenshot-2.png"/>
 <img alt="screenshot" width="30%" src="screenshots/Screenshot-3.png"/>
