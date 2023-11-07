@@ -9,8 +9,6 @@
   <a href="mailto:lorranfranzbastos1@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
-[![](https://visitcount.itsvg.in/api?id=LorranFranzDev&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <p float="left" align="center">
 <img src="screenshots/video.gif" width="25%"/>
 </p>
